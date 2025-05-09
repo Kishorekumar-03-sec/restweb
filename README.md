@@ -176,10 +176,11 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-07 201109.png>) 
-![alt text](<Screenshot 2025-05-07 201121.png>) 
-![alt text](<Screenshot 2025-05-07 201133.png>) 
-![alt text](<Screenshot 2025-05-07 201145.png>)
+![Screenshot 2025-05-09 214724](https://github.com/user-attachments/assets/6fe3f031-1d18-4a8d-8f6c-e8a5b7cdbd8e)
+![Screenshot 2025-05-09 214841](https://github.com/user-attachments/assets/7920522f-5165-40d1-be89-85aab4923286)
+![Screenshot 2025-05-09 214953](https://github.com/user-attachments/assets/fa1549f9-9ca9-4bde-a4c2-d128d7ab9940)
+![Screenshot 2025-05-09 215015](https://github.com/user-attachments/assets/c619e50a-9e16-431a-9838-fc6005dcc4bb)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
